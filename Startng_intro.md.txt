@@ -1,5 +1,0 @@
-Full Name: Ephraim Omenai
-email address: eomenaiofficial@gmail.com
-slack username: ephraim_omenai
-TRACK: Frontend
-Courses: HTML,CSS,JavaScript
